@@ -1,4 +1,4 @@
-license = 'GNU General Public License v3',
+    license = 'GNU General Public License v3',
     author = 'Tomi Toivio',
     author_email = 'tomi.toivio@ukuli.fi',
     description = 'Central API hub for IoT application',
